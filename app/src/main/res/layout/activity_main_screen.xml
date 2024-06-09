@@ -49,4 +49,14 @@
         android:text="Friday Times"
         tools:layout_editor_absoluteX="29dp"
         tools:layout_editor_absoluteY="401dp" />
+
+    <EditText
+        android:id="@+id/day6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Saturday Times"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="475dp" />
+
+
 </androidx.constraintlayout.widget.ConstraintLayout>
